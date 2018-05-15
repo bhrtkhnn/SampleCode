@@ -1,0 +1,7 @@
+{
+    "vsforce.options.pushOnSave": false,
+    "vsforce.organization.loginUrl": "https://login.salesforce.com",
+    "vsforce.organization.password": "Khanna#7565",
+    "vsforce.organization.securityToken": "mpMoE3mJktW8awPjg6L7pXSAz",
+    "vsforce.organization.username": "bharat.c.khanna@sfdx.com"
+}
